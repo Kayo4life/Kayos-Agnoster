@@ -1,4 +1,4 @@
-# Kayo's Agnoster
+# Kayos Agnoster
 
 Hey there! This is a custom version of the Agnoster ZSH theme, designed for me, Kayo, to use.
 
