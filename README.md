@@ -2,7 +2,7 @@
 
 Hey there! This is a custom version of the Agnoster ZSH theme, designed for me, Kayo, to use.
 
-If you are looking for the official version, please go [here](https://github.com/agnoster/agnoster-zsh-theme)
+If you are looking for the official version, please go [here](https://github.com/agnoster/agnoster-zsh-theme).
 
 It's mildly customized to fit my rice, mainly just to:
 
